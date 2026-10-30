@@ -7,7 +7,7 @@
 
 <h2 align="center">
   DESENVOLVEDOR FULL STACK
-  <img src="./gatinho.gif" width="65" alt="Gatinho programando">
+  <img src="./gatinho.gif" width="65" align="middle" alt="Gatinho programando">
 </h2>
 
 <br>
