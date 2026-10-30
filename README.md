@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="./jaden.png" width="65" alt="Jaden Yuki" />
+  <img src="./Jaden.png" width="65" alt="Jaden Yuki" />
   Guivon
 </h1>
 
