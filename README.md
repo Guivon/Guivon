@@ -33,7 +33,7 @@
   <strong>Fã de Animes Shounen/Seinen </strong>
   &nbsp;&nbsp; | &nbsp;&nbsp;
   <img src="./soulslike.gif" width="25" height="25" align="absmiddle" alt="Soulslike">
-  <strong>SoulsLike</strong>
+  <strong>SoulsLike Player</strong>
   &nbsp;&nbsp; | &nbsp;&nbsp;
   🎹
   <a href="https://www.youtube.com/watch?v=MBIPsbtBZfA&amp;list=RDMBIPsbtBZfA&amp;start_radio=1&amp;pp=ygURRHJvcCBpbiB0aGUgb2NlYW6gBwE%3D">
