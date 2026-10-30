@@ -20,7 +20,7 @@
 ☕ Desenvolvendo projetos em Java e Python<br>
 📱 Explorando Android Studio e Kotlin<br>
 ☁️ Aprendendo AWS e arquitetura de software<br>
-🎮 Fã de Animes | <img width="200" height=100" alt="DarkSoulsArrowGIFbyBANDAINAMCO" src="https://github.com/user-attachments/assets/b190efc7-11d0-4fab-861b-117fad7b7a3d" />
+🎮 Fã de Animes | <img width="25" height=25" alt="DarkSoulsArrowGIFbyBANDAINAMCO" src="https://github.com/user-attachments/assets/b190efc7-11d0-4fab-861b-117fad7b7a3d" />
 SoulsLike | Musica Clássica
 </p>
 
