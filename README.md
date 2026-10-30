@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1> Guivon </h1>
+<h1> Guivon 💻</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=BD42F5&center=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Java+%26+Kotlin;Explorando+o+mundo+da+tecnologia;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=BD42F5&center=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Java+%26+Kotlin;Explorando+o+mundo+da+tecnologia" />
 
 <br>
 
