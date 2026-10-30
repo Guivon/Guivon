@@ -21,7 +21,7 @@
 <p>
 💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
 ☕ Desenvolvendo projetos em Java e Python<br>
-📱 Explorando Android Studio e Kotlin<br>
+📱 Explorando Desenvolvimento de Apps<br>
 ☁️ Aprendendo AWS | arquitetura de software | Machine Learning 
 </p>
 
