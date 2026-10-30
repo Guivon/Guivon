@@ -37,7 +37,7 @@
   &nbsp;&nbsp; | &nbsp;&nbsp;
   🎹
   <a href="https://www.youtube.com/watch?v=MBIPsbtBZfA&amp;list=RDMBIPsbtBZfA&amp;start_radio=1&amp;pp=ygURRHJvcCBpbiB0aGUgb2NlYW6gBwE%3D">
-    <strong>Música Clássica</strong>
+    <strong>Gosto de musicas com piano</strong>
   </a>
 </p>
 
