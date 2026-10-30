@@ -3,9 +3,14 @@
 
 <img src="./Jaden.png" width="85" alt="Jaden Yuki">
 
-<h1>Guivon</h1>
+<h1>Wilgleson Francisco Barbosa Dos Santos</h1>
 
-<h2><strong>DESENVOLVEDOR FULL STACK</strong></h2>
+
+<h2 align="center">
+  DESENVOLVEDOR FULL STACK
+  <img src="./gatinho.gif" width="65" alt="Gatinho programando">
+</h2>
+
 
 <br>
 
