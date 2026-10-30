@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./jaden.png" width="85" alt="Jaden Yuki" />
+<img src="./Jaden.png" width="85" alt="Jaden Yuki" />
   
 <h1 align="center">Guivon</h1>
 
