@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>⚡ Guivon ⚡</h1>
+<h1> Guivon </h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=BD42F5&center=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Java+%26+Kotlin;Explorando+o+mundo+da+tecnologia;It's+time+to+duel!" />
 
@@ -10,14 +10,14 @@
 
 <br><br>
 
-<h2>🔥 Sobre mim</h2>
+<h2> Sobre mim</h2>
 
 <p>
 💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
 ☕ Desenvolvendo projetos em Java<br>
 📱 Explorando Kotlin e Android Studio<br>
 ☁️ Aprendendo AWS e arquitetura de software<br>
-🎮 Fã de Yu-Gi-Oh! GX
+🎮 Fã de Yu-Gi-Oh! GX e Souls Like
 </p>
 
 <h2>⚔️ Meu arsenal tecnológico</h2>
@@ -47,8 +47,6 @@
 </a>
 
 <br><br>
-
-<h3>🃏 It's time to duel!</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:BD42F5,100:FF1744&height=110&section=footer" />
 
