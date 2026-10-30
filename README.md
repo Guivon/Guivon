@@ -22,7 +22,7 @@
 💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
 ☕ Desenvolvendo projetos em Java e Python<br>
 📱 Explorando Desenvolvimento de Apps<br>
-☁️ Aprendendo AWS | Arquitetura de software | Machine Learning 
+☁️ Aprendendo AWS | Arquitetura De Software | Machine Learning 
 </p>
 
 
