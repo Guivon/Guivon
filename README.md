@@ -22,24 +22,22 @@
 ☁️ Aprendendo AWS e arquitetura de software
 </p>
 
-<table>
-<tr>
-<td align="center" valign="middle">
-<img src="./solo-leveling.gif" width="25" height="25" alt="Solo Leveling">
-<strong>Fã de Animes</strong>
-</td>
-<td align="center" valign="middle">
-<img src="./soulslike.gif" width="25" height="25" alt="Soulslike">
-<strong>SoulsLike</strong>
-</td>
-<td align="center" valign="middle">
-🎹
-<a href="https://www.youtube.com/watch?v=MBIPsbtBZfA&amp;list=RDMBIPsbtBZfA&amp;start_radio=1&amp;pp=ygURRHJvcCBpbiB0aGUgb2NlYW6gBwE%3D">
-<strong>Música Clássica</strong>
-</a>
-</td>
-</tr>
-</table>
+
+<p align="center">
+  <a>
+    <img src="./solo-leveling.gif" width="25" height="25" align="absmiddle" alt="Solo Leveling">
+  </a>
+  <strong>Fã de Animes</strong>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <img src="./soulslike.gif" width="25" height="25" align="absmiddle" alt="Soulslike">
+  <strong>SoulsLike</strong>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  🎹
+  <a href="https://www.youtube.com/watch?v=MBIPsbtBZfA&amp;list=RDMBIPsbtBZfA&amp;start_radio=1&amp;pp=ygURRHJvcCBpbiB0aGUgb2NlYW6gBwE%3D">
+    <strong>Música Clássica</strong>
+  </a>
+</p>
+
 
 <br>
 
