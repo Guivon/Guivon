@@ -27,7 +27,7 @@
   <a>
     <img src="./solo-leveling.gif" width="25" height="25" align="absmiddle" alt="Solo Leveling">
   </a>
-  <strong>Fã de Yu gi oh Gx e Animes Shounen/Seinen </strong>
+  <strong>Fã de Animes Shounen/Seinen </strong>
   &nbsp;&nbsp; | &nbsp;&nbsp;
   <img src="./soulslike.gif" width="25" height="25" align="absmiddle" alt="Soulslike">
   <strong>SoulsLike</strong>
